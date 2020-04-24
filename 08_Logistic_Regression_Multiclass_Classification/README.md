@@ -4,7 +4,7 @@
 
 # Code
 1. Predicting handwritten digits using Multiclass logistic regression
-   [Notebook Reference](Logistic_Regression_Multiclass_Classification)
+   [Notebook Reference](Logistic_Regression_Multiclass_Classification.ipynb)
    
 2. Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out accuracy of your model and use that to predict different samples in your test dataset.
    [Notebook Reference](Exercise_Logistic_Regression_Multiclass_Classification.ipynb)
