@@ -13,5 +13,5 @@
  1. Predicting whether a persons salary is more 100K dollars based on his company, job title and degree he has
     [Notebook Reference](Decision_Tree.ipynb)
     
- 2. Predicting whether a persons salary is more 100K dollars based on his company, job title and degree he has
+ 2. Exercise: Build decision tree model to predict survival based on certain parameters from file 'exercise_titanic.csv'
     [Notebook Reference](Exercise_Decision_Tree.ipynb)   
