@@ -24,9 +24,7 @@
 
 # Code
 1. We are going to use sklearns digits dataset to predict the digit from 0 to 9
-   [Random_Forest](11_Random_Forest/Random_Forest.ipynb)
+   [Notebook Reference](/Random_Forest.ipynb)
    
 2. Use iris flower dataset from sklearn.datasets to predict flower species using random forest classifier
-   [Exercise_Random_Fores](11_Random_Forest/Exercise_Random_Forest.ipynb)
-   
-2. 
+   [Notebook Reference](/Exercise_Random_Forest.ipynb)
