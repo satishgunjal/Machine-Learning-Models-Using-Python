@@ -28,3 +28,7 @@
    
 2. Use iris flower dataset from sklearn.datasets to predict flower species using random forest classifier
    [Notebook Reference](Exercise_Random_Forest.ipynb)
+   
+   Reference
+   Youtube - codebasics
+   Tutorial- Tutorials point
