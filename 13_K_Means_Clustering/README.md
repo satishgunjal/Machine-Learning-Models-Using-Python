@@ -13,7 +13,7 @@
 ## Choosing no of clusters (K)
 * Mostly K value choosen mannually
 * Elbow Method
-  <img src="images/ElbowMethod.png" width="700">
+  <img src="iamges/ElbowMethod.png" width="700">
   
 ## Reference
 * Refer my 'Machine-Learning-By-Stanford-University' repository Week: 8 for more details
