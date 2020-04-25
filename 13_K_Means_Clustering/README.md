@@ -13,6 +13,7 @@
 ## Choosing no of clusters (K)
 * Mostly K value choosen mannually
 * Elbow Method
+
   <img src="iamges/ElbowMethod.png" width="700">
   
 ## Reference
