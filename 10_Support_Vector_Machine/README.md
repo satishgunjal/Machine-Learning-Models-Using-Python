@@ -12,17 +12,16 @@
 * Gamma: In case of high value of Gamma decision boundary is dependent of points cloase it where in case of low value of Gamma decision SVM will consider the far away points also while deciding the decision boundary
 * Regularization parameter(C): Large C will result in overfitting and which will lead to lower bias and high variance. Small C will result in underfitting and which will lead to higher bias and low variance
 
-## Problem Statement: We will use IRIS flower dataset from sklearn and try to predict the flow type
+# Code
+ 1. We will use IRIS flower dataset from sklearn and try to predict the flower type
+    [Notebook Reference](Support_Vector_Machine.ipynb)
+    
+ 2. Exercise: Train SVM classifier using sklearn digits dataset to predict digit from 0 to 9.
+    [Notebook Reference](Exercise_Support_Vector_Machine.ipynb)  
 
-We have also used the same dataset in multiclass logistic regression exercise
-08_Logistic_Regression_Multiclass_Classification/Exercise_Logistic_Regression_Multiclass_Classification.ipynb
+## References:
 
-References:
-
-[Support Vector Machine](https://youtu.be/FB5EdxAGxQg)
-
-[Support Vector Machine](https://youtu.be/Y6RRHw9uN9o)
-
-[Tutorial](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
-
-[SVM Gamma Parameter](https://youtu.be/m2a2K4lprQw)
+* [Support Vector Machine](https://youtu.be/FB5EdxAGxQg)
+* [Support Vector Machine](https://youtu.be/Y6RRHw9uN9o)
+* [Tutorial](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+* [SVM Gamma Parameter](https://youtu.be/m2a2K4lprQw)
