@@ -46,7 +46,7 @@
   * Load the dataset and split it into test and traion
   * Train the model using Gaussian and Multinomial classifier and post the scores
   * Used trained model to perform some prediction on data
-  * [Notebook Reference](Exercise_Naive_Bayes_Part.ipynb)
+  * [Notebook Reference](Exercise_Naive_Bayes.ipynb)
 
 ### Reference
 * [Naive Bayes classifier: A friendly approach](https://youtu.be/Q8l0Vip5YUw)
