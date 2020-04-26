@@ -5,7 +5,7 @@
 * Similarly probability of getting queen from a deck of card is 4/52 i.e. 7.7 %
 
 ### Consitional Probability
-* Unline basic probability in conditional probability we know that the event A has occured and we are trying to predict the probability of B. i.e. What is probability of getting a queen of diamond. Here card type diamond is event A.
+* Unlike basic probability in conditional probability we know that the event A has occured and we are trying to predict the probability of B. i.e. What is probability of getting a queen of diamond. Here card type diamond is event A.
 * So the consitional probability of getting a queen of diamond is represented as P(Queen/Diamond) = 1/13 i.e. 7.7%
 * More general representation is P(A/B) = Probability of 'Event A' knowing that 'Event B' has already occured
 * Thomas Bayes conditional probability equation is:
