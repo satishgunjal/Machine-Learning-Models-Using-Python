@@ -16,14 +16,14 @@
 * Its called 'Naive' because it assumes the known events(features) are independent of each other. This makes our calculations little simpler
 
 ### Naive Base Classifiers
-  ## Bernoulli Naive Bayes
+  #### Bernoulli Naive Bayes
   * It Assumes that all our features are binary, means they take only two values 0 and 1
   * e.g. 1 can represent spam mails where 0 can represent ham mails
   
-  ## Multinomial Naive Bayes
+  #### Multinomial Naive Bayes
   * It is used when we have descrete data e.g. Movie rating from 1 to 5 as each rating will have certain frequency to represent
   
-  ## Gaussian Naive Bayes
+  #### Gaussian Naive Bayes
   * Because of the assumtion of nominal distributions Gaussian Naive Bayes is used when all the features are continuos
   * E.g. IRIS flower dataset features(sepal width, sepal length, petal width, patal length) are continuous. We can t represnt these features in terms of their occurance whcih means data is continuous
 
