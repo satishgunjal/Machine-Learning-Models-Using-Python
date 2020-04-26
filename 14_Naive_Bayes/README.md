@@ -40,6 +40,7 @@
   * Using 'Mulinomial Naive Bayes classifier'
   * We are going to use 'Count Vectorizer' technique for converting the mail body into numbers.
   * How it works: We will identify the unique words accorss all the mails and then find the count of each word in every mail. So we get the matrix with columns equal to no of unique words and rows equal to number of mails and each cell represent the count of that unique word(in that mail)
+  * [Notebook Reference](/Naive_Bayes_Part2.ipynb)
 
 ### Reference
 * [Naive Bayes classifier: A friendly approach](https://youtu.be/Q8l0Vip5YUw)
