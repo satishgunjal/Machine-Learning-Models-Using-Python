@@ -23,12 +23,12 @@
   * It is used when we have descrete data e.g. Movie rating from 1 to 5 as each rating will have certain frequency to represent  
   #### Gaussian Naive Bayes
   * Because of the assumtion of nominal distributions(bell curve) Gaussian Naive Bayes is used when all the features are continuos
-  * E.g. IRIS flower dataset features(sepal width, sepal length, petal width, patal length) are continuous. We can t represnt these features in terms of their occurance whcih means data is continuous
+  * E.g. IRIS flower dataset features(sepal width, sepal length, petal width, patal length) are continuous. We can t represent these features in terms of their occurance which means data is continuous
 
 ### Where its used
 * Email spam detection
 * Handwritten digit recognition
-* Wheather prediction
+* Weather prediction
 * Face detection
 * News article categorization
 
