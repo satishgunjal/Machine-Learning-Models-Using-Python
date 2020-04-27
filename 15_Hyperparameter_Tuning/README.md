@@ -28,5 +28,18 @@
 
 * For iris flower dataset in sklearn library, we are going to find out best model and best hyper parameters using GridSearchCV or RandomizedSearchCV API for hyperparametertraining
 
+# Code
+* Problem Statement: For iris flower dataset in sklearn library, we are going to find out best model and best hyper parameters using GridSearchCV or RandomizedSearchCV API for hyperparameter training
+* [Notebook Reference](Hyperparameter_Tuning.ipynb)
+* Exercise
+  * For digits dataset in sklearn.datasets try following models and find the best performing model. Also find the optimal paramters for that classifier
+    * from sklearn import svm
+    * from sklearn.ensemble import RandomForestClassifier
+    * from sklearn.linear_model import LogisticRegression
+    * from sklearn.naive_bayes import GaussianNB
+    * from sklearn.naive_bayes import MultinomialNB
+    * from sklearn.tree import DecisionTreeClassfier
+  * [Notebook Reference](Exercise_Hyperparameter_Tuning.ipynb)
+
 # Reference
 [What is the Difference Between a Parameter and a Hyperparameter?](https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/)
